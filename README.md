@@ -1,5 +1,5 @@
 - 👋 Ahoj, jsem @Zde4nekCZ
-- 👀 Momentálně pracuji na projektu https://zaltex.eu
+- 👀 Momentálně pracuji na projektu https://fruitmania.cz
 - 🌱 V současné době se učím Javu, HTML, CSS, JavaScript a další
 - 📫 Máš nějaké otázky? Kontaktuj mě přes Discord **Zde4nekCZ**
 <!---
